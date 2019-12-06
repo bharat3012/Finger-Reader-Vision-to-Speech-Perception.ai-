@@ -1,7 +1,5 @@
 # FInger-Reader-Vision-to-Speech-Perception.ai-
 
-# Presentation in 
-
 ![i](AI.png)
 ![i](myfinger.jpeg)
 ![i](otsu.jpg)
@@ -13,3 +11,8 @@
 ![i](BindingBox_latest2.jpg)
 
 ![i](IMG-20181006-WA0054.jpg)
+
+
+# Buisness Canvas
+
+![i](Canvas.PNG)
