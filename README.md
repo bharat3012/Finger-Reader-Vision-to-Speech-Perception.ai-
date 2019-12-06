@@ -1,4 +1,4 @@
-# FInger-Reader-Vision-to-Speech-Perception.ai-
+# Finger-Reader-Vision-to-Speech-Perception.ai-
 
 # Our Logo
 ![i](AI.png)
