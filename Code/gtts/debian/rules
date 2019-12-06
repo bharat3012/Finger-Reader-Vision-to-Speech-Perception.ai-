@@ -1,0 +1,27 @@
+#!/usr/bin/make -f
+
+
+PYVERS = $(shell pyversions -vr)
+PYVERSION = $(shell pyversions -vd)
+PY3VERS = $(shell py3versions -vr)
+
+
+%:
+	dh $@ --with=python2,python3
+
+override_dh_auto_clean:
+	rm -rf $(CURDIR)/build
+	dh_auto_clean
+
+override_dh_auto_build:
+	set -ex && for pyvers in $(PYVERS) $(PY3VERS); do \
+		python$$pyvers setup.py build; \
+	done
+
+override_dh_auto_install:
+	set -ex && for pyvers in $(PYVERS) $(PY3VERS); do \
+		python$$pyvers setup.py install --install-layout=deb --root $(CURDIR)/debian/tmp; \
+	done
+
+override_dh_install:
+	dh_install --list-missing
