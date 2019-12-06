@@ -1,0 +1,1 @@
+# FInger-Reader-Vision-to-Speech-Perception.ai-
