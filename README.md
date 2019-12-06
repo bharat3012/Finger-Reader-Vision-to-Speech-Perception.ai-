@@ -7,6 +7,6 @@
 ![i](marked.jpg)
 ![i](selected.jpg)
 
-![i](adtg.jpg)
+![i](adtg.jpg) //
 ![i](BindingBox_latest2.jpg)
 ![i](IMG-20181006-WA0054.jpg)
