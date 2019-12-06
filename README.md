@@ -3,9 +3,10 @@
 ![i](AI.png)
 
 
-![i](myfing.jpeg)
+![i](myfinger.jpeg)
+![i](otsu.jpg)
 ![i](marked.jpg)
-![i](selected.jpg)
+![i](selected1.jpg)
 
 ![i](adtg.jpg) //
 ![i](BindingBox_latest2.jpg)
