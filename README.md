@@ -14,7 +14,14 @@
 
 ![i](BindingBox_latest2.jpg)
 
-# Our Device
+
+# Hardware Overview
+![i](PAI2.jpg)
+
+# Software Overview (Algorithmic Flow)
+![i](PAI.jpg)
+
+# Device 3D Desgin in Blender
 ![i](IMG-20181006-WA0054.jpg)
 
 
